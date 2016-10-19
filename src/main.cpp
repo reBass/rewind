@@ -1,4 +1,5 @@
 #include <QApplication>
+#include <RtAudio.h>
 
 int main(int argc, char* argv[])
 {
